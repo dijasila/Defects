@@ -1,0 +1,26 @@
+{
+ "__asr_name__": "asr.database.totree",
+ "__resources__": {
+  "time": 7.15566873550415,
+  "ncores": 1
+ },
+ "__creates__": {},
+ "__params__": {
+  "database": "materials.db",
+  "run": true,
+  "selection": "",
+  "tree_structure": "tree/{stoi}/{spg}/{formula:metal}-{stoi}-{spg}-{wyck}-{uid}",
+  "sort": null,
+  "atomsname": "unrelaxed.json",
+  "chunks": 3,
+  "copy": false,
+  "patterns": "*",
+  "create_folders": true,
+  "write_atoms_file": true
+ },
+ "__versions__": {
+  "asr": "0.3.2-aee754a0c24a3ee3dd0cdeb5a931ac4f786a807c",
+  "ase": "3.20.0b1-0e357006ea54de5b65967c1169c738e16012b07f",
+  "gpaw": "20.1.1b1-eb00449f9bd878304821a064ae01b562c77e37fb"
+ }
+}

@@ -1,0 +1,9 @@
+This file should contain all of the issues and things that need to be taken
+care of. Whenever you find something that does not work or is needed to be
+fixed, add it to the following list:
+
+- EXAMPLE: 'venv/' not working (STATUS: DONE, July 16th)
+
+- Add Sajid to the camdcmr group (STATUS: DONE, July 27th)
+- Make mapping algorithm stable for analysing defect symmetries (STATUS:
+  IN PROGRESS, August 11th)

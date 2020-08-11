@@ -1,0 +1,25 @@
+This file should give an overview of what kind of features we want to have for
+the project (scripts, database entries, ...) and which ones are already
+implemented. It is divided into the different phases of the project:
+
+Phase 1
+=======
+- analyse host supercells (DONE)
+
+Phase 2
+=======
+- script to visualize convergence behaviour of relaxations (DONE)
+- script to analyse failed calculations (TBD)
+- excited state calculations (TBD)
+- script to automatically submit the correct charge calculations (TBD)
+- analysis of 1D model (IN PROGRESS)
+- mapping script for local symmetry analysis (IN PROGRESS)
+- 1D displacement amplitude, choose automatically (TBD)
+
+Phase 3
+=======
+TBD
+
+Phase 4
+=======
+TBD
