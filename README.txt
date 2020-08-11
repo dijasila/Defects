@@ -1,4 +1,6 @@
-This file gives an overview of the structure of the defect HT project and
+# Welcome to the defect HT project
+
+This introduction gives an overview of the structure of the defect HT project and
 should be updated whenever new important information is coming up. It also describes
 how we plan to do things in order to obtain consistent results and have a consistent
 way of running calculations, extracting data, and visualizing results.
